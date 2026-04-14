@@ -2,12 +2,12 @@
 
 ## ITCS 3162: Data Mining Course Project -- Group #10
 
-### By Erich Then, Eric Ho, Aaron Putnum, and Ethan Park
+
 
 ---
 
-#### Working with a real-world geospatial dataset to predict median house values across California.
-
+#### Working with a real-world geospatial dataset to predict median house values across California.  
+#### By Erich Then, Eric Ho, Aaron Putnum, and Ethan Parkx
 ---
 
 #### Key Requirements:  
