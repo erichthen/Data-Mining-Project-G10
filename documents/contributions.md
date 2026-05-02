@@ -16,3 +16,4 @@
 |Ethan Park|03/27|Worked on project timeline 2||
 |Aaron Putnam|03/28|Worked on project timeline 2||
 |Ethan Park|04/17|Worked on project timeline 5||
+|Aaron Putnam|5/1|Worked on project timeline 6||
