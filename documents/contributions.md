@@ -14,4 +14,5 @@
 |-------------|-----------------------------|------------------|--------------|
 |Erich Then|04/01|worked on repo setup, added to checkpoint 2 EDA||  
 |Ethan Park|03/27|Worked on project timeline 2||
+|Aaron Putnam|03/28|Worked on project timeline 2||
 |Ethan Park|04/17|Worked on project timeline 5||
